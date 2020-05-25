@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
+title: Michael's Blog
 SEOTitle: 马博的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "自强不息，厚德载物"
-keyword: "BY, BY Blog, 马博的博客, qiubaiying, 马博, iOS, Apple, iPhone"
+keyword: "马博的博客, 马博"
 url: "http://nivarox.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/nivarox/nivarox.github.io.git" # you code repository
